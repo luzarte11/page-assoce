@@ -1,0 +1,11 @@
+body {
+
+
+.jumbotron {
+	height: 300px; margin: auto; background-color: #b2bec3; 
+	
+}
+section{ 
+background-image: url('nature.jpeg'); height: 500px; text-align: center;
+}
+
